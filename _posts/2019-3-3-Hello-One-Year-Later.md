@@ -3,7 +3,7 @@ layout: post
 title: Hello / One-Year Later
 ---
 
-![Profile of Owen](res/2019-3-3-Main.jpeg)
+![Profile of Owen]({{ site.baseurl }}/_posts/res/2019-3-3-Main.jpeg)
 
 Hello everyone!
 
