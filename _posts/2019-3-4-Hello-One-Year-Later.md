@@ -19,9 +19,12 @@ I have known that I was going to be a computer programmer since I was 10 years o
 
 This may, I will be graduating with my bachelor's degree in Computer Science/Computer Information Systems with a software development concentration. I'm extremely glad that I had the opportunity to pursue this degree and I appreciate all the support I've had through this experience.
 
+If you have the opportunity to continue your education after graduating high school, I highly recommend that you do it. I've learned so much more than I thought I would and I know that I have the support behind me to make it in this industry!
+
 ## Looking Forward
 
 Recently, I accepted a software engineering position at a company in Thief River Falls, MN. Although nervous about leaving Duluth, the place I have considered home for the last four years, I am excited about the future. I've been working for years to get to this point, and I'm stoked to finally use the skills I've been developing over the last 12 years! I'm sure you'll hear a lot more about this experience after I get started!
 
+---
 Thanks for reading my rants and rambles!
 Owen
