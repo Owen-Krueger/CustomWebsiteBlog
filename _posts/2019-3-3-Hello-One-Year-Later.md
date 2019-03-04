@@ -3,8 +3,8 @@ layout: post
 title: Hello / One-Year Later
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+![Profile of Owen](res/2019-3-3-Main.jpeg)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Hello everyone!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+My name is Owen Krueger and I'm a 22 year old software developer!
