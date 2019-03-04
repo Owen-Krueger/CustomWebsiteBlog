@@ -18,15 +18,15 @@ avatar: https://blog.owenkrueger.dev/images/profile.jpeg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: owenkrueger2@gmail.com
+  facebook: owen.krueger.779
   flickr:
   github: Owen-Krueger
-  instagram:
+  instagram: kruegerowen
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: owk914
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
