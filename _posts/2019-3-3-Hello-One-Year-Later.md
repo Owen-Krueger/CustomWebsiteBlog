@@ -5,7 +5,7 @@ title: Hello / One-Year Anniversary
 
 Hello everyone!
 
-![Profile of Owen]({{ site.baseurl }}/images/posts/2019-3-3-Main.jpeg =250x250)
+![Profile of Owen]({{ site.baseurl }}/images/posts/2019-3-3-Main.jpeg | width=50)
 
 My name is Owen Krueger and I'm a 22 year old software developer!
 
